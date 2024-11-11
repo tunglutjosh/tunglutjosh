@@ -7,7 +7,7 @@ With a passion for creativity I often bring my creative thinking skills to solve
 ## Technical Skills 🛠️
 
 - Languages: Python and SQL
-- Tools: Git Bash, VS Code, Power BI, Jupyter Notebook, Open AI
+- Tools: Git Bash, VS Code, Power BI, Jupyter Notebook, Open AI, Latex
 
 ## Key Projects 📚
 
