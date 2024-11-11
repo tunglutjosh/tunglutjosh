@@ -2,7 +2,7 @@
 
 ## About Me
 
-With a passion for creativity I often bring my creative thinking skills to solve technical problems in ways that most people would'nt. Having written critical reviews and analysis on my Social Media Page for art and other artistic medium like games, I tend to bring in my critical analytical skills whenever building or debugging a project. I want to be able to help society on a big or small scale and build non-commercialised projects that would help, most desireably, the small business sector.
+With a passion for creativity I often bring my creative thinking skills to solve technical problems in ways that most people would'nt. Having written critical reviews and analysis on my Social Media Page for art and other artistic medium like games, I tend to bring in my critical analytical skills whenever building or debugging a project. I want to be able to help society on a big or small scale and build non-commercialised projects that would help, most desireably, the small-scale business sector.
 
 ## Technical Skills 🛠️
 
