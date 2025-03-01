@@ -1,4 +1,4 @@
-👋 Hi, I'm Joshua Tunglut! A Computer Science Engineering Graduate looking to make a name in the Data Engineering field.
+👋 Hi, I'm Joshua Tunglut! A Computer Science and Engineering Graduate looking to make a name in the Data Engineering field.
 
 ## About Me
 
